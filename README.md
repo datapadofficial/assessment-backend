@@ -128,22 +128,22 @@ Response:
   "dimensions": ["date.weeknum"],
   "aggregation": "distinct",
   "data": {
-    49: [
+    "49": [
       {
         "value": "2342"
       }
     ],
-    50: [
+    "50": [
       {
         "value": "2322"
       }
     ],
-    51: [
+    "51": [
       {
         "value": "1643"
       }
     ],
-    52: [
+    "52": [
       {
         "value": "34"
       }
