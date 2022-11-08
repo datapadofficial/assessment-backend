@@ -39,14 +39,21 @@ order to do that, you need to automate extracting few metrics from a data source
 This 3rd party tool will consume data from the endpoint you've specified but you'll also need to implement
 the tool's predefined metrics and custom protocol schema `(see API Schema below)`.
 
+On the other hand, the data source may be changed time to time. Therefore, you'll need to read it from the
+online source.
+
+
+#### Data Source
+
+- [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1frVzuJCImzpP-zEhSrzuQGV0rUp3mFxV5OfG0z1UZYg/edit?usp=sharing)
+
 
 #### Metrics
 
-- a
-- b
-- c
-- d
-- e
+- Avg. Revenue by Brand
+- Weekly Sessions
+- Daily Conversion Rate % 
+- Net Revenue of Each Customer
 
 
 ### Technical Expectations
